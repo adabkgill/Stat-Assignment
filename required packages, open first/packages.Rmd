@@ -1,0 +1,15 @@
+```{r}
+install.packages(c("tidyverse", "dplyr", "usethis", "devtools", "roxygen2", "testthat", "tibble", "here"))
+```
+
+```{r}
+library(tidyverse)
+library(dplyr) 
+library(usethis)
+library(devtools)
+library(roxygen2)
+library(testthat)
+library(tibble) 
+library(here)
+```
+
