@@ -1,0 +1,19 @@
+## Task Completion Checklist
+
+Below is a summary of the tasks from the marking rubric and the status of completion for each.
+
+| Task                                 | Completed (Yes/No) | Comments/Details                           |
+|--------------------------------------|--------------------|--------------------------------------------|
+| **Multiserver function implementation** | Yes                | Implemented and tested successfully.       |
+| **Documentation for Multiserver**      | Yes                | Full documentation generated with roxygen2.|
+| **Bank dataset**                       | Yes                | Dataset included and documented.           |
+| **Function testing**                   | Yes                | Tests written using testthat.              |
+| **README.md file**                     | Yes                | README added with usage and installation.  |
+| **GitHub repository setup**            | Yes                | Successfully pushed project to GitHub.     |
+| **R package structure**                | Yes                | Package structured with `R/` and `data/`.  |
+| **Pushing to GitHub**                  | Yes                | All changes pushed to GitHub.              |
+
+### Additional Notes:
+- The package has been tested successfully, and the dataset is correctly loaded.
+- Full documentation has been generated for all functions and datasets.
+- README file includes all necessary project details, installation instructions, and usage examples.
